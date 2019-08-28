@@ -1,5 +1,5 @@
 # GKP_photon_catalysis
-Series of Python codes written with the Jupyter Notebook that implement StrawberryFields and QuTiP modules to simulate photon catalysis and generate various non-Gaussian quantum states.  The results of this work are available on ArXiv in the paper "Gottesman-Kitaev-Preskill state preparation by photon catalysis" arXiv:1903.01925v2. 
+Series of Python codes written with the Jupyter Notebook that implement StrawberryFields and QuTiP modules to simulate photon catalysis and generate various non-Gaussian quantum states.  These modules can be installed by following the instructions found at https://strawberryfields.readthedocs.io/en/latest/installing.html and http://qutip.org/docs/latest/installation.html. The results of this work are available on ArXiv in the paper "Gottesman-Kitaev-Preskill state preparation by photon catalysis" arXiv:1903.01925v2 - https://arxiv.org/abs/1903.01925v2. 
 
 A brief discription of the codes can be found below:
 
